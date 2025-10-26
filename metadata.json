@@ -1,0 +1,5 @@
+{
+  "name": "Storyboard & Chat AI",
+  "description": "An application to generate storyboard images from a script and a chatbot to answer questions using Gemini AI.",
+  "requestFramePermissions": []
+}
